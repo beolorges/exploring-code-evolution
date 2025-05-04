@@ -76,11 +76,10 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: [Elasticsearch](https://github.com/elastic/elasticsearch)
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: LOC of Methods
   
-3. Explicação: <EXPLICACAO_AQUI>
-
+3. Explicação: Escolhi esse gráfico porque ele ilustra bem uma boa prática de desenvolvimento: manter os métodos enxutos. O gráfico mostra a quantidade média de linhas por método ao longo do tempo e apresenta uma estabilidade notável — permanecendo entre 11 e 13 linhas durante os seis anos analisados. Mesmo com o crescimento expressivo do projeto, que ultrapassou quatro milhões de linhas de código, o número de métodos cresceu proporcionalmente. Isso indica um cuidado em manter cada método com uma responsabilidade única, alinhado às boas práticas de programação.
 
 
